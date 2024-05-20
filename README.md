@@ -1,7 +1,5 @@
 # 💫 About Me:
 I enjoy reading books and learning new things that enhance my coding skills and help me solve problems I encounter. I am passionate about competitive fields like competitive programming and love studying algorithms. With a strong problem-solving skill set, I aspire to become a software engineer in the future and participate in highly competitive programs.				<br>				<br>				<br>				
-
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/mexd2108) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/duykhanhse) 
 
